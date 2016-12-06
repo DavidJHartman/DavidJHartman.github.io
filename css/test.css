@@ -7,8 +7,26 @@ h1 {
   margin-left: 80px;
 }
 
-.container {
-  display: flex;
+.flex-container {
+  display: -webkit-box;
   flex-direction: column;
   flex-wrap: wrap;
+  justify-content: space-around;
+
+  list-style: none;
+}
+
+.flex-item {
+  background: tomato;
+  padding: 5px;
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+
+  line-height: 150px;
+  color: white;
+  font-weight: normal;
+  font-size: 3em;
+  text-align: center;
+  text-shadow:
 }
