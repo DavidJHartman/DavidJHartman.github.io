@@ -2,8 +2,8 @@ body {
   background-color: lightblue;
 }
 
-header {background: black; color: white;}
-footer {background: black; color: white;}
+header {background-color: black; color: white;}
+footer {background-color: black; color: white;}
 
 .flex-container {
   display: flex;
