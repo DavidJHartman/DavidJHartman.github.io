@@ -1,9 +1,9 @@
 body {
+  header {background: black; color: white;}
+  footer {background: black; color: white;}
   background-color: lightblue;
 }
 
-  header {background: black; color: white;}
-  footer {background: black; color: white;}
 
 .flex-container {
   display: flex;
