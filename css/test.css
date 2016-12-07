@@ -2,7 +2,11 @@ body {
   background-color: lightblue;
 }
 
-header {background-color: black; color: white;}
+header {
+  background-color: black;
+  color: white;
+  align-items: center;
+}
 footer {background-color: black; color: white;}
 
 .flex-container {
