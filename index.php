@@ -7,10 +7,9 @@
   </style>
 </head>
 
+<?php include("const/header.html");?>
+
 <div class="flex-container">
-<header>
-  <h1>Welcome to my website</h1>
-</header>
 
 <body>
   <p>This is my website!</p>

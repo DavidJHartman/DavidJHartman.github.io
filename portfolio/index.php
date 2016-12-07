@@ -4,9 +4,9 @@
   <link rel="stylesheet" href="/css/test.css"/>
 </head>
 <div class="flex-container">
-
+<?php include("../const/header.html");?>
 <header>
-    <h1>Portfoliooo</h1>
+    <h2>Portfoliooo</h2>
 </header>
 
 <body>
